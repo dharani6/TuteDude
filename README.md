@@ -1,5 +1,5 @@
 # TuteDude
-# Funcanaliteis of the Program is to create python program to addition, subtraction, muliplication, division.
+# The functionality of the Program is to create a Python program for addition, subtraction, multiplication, and division.
 Task 1: Perform Basic Mathematical Operations
 Problem Statement: Write a Python program that does the following:
 1.  Takes two numbers as input from the user.
@@ -9,3 +9,8 @@ o	Subtraction
 o	Multiplication
 o	Division
 3.  Displays the results of each operation on the screen.
+Task 2: Create a Personalized Greeting
+Problem Statement: Write a Python program that:
+1.  Takes a user's first name and last name as input.
+2.  Concatenates the first name and last name into a full name.
+3.  Prints a personalized greeting message using the full name.
