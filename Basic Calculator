@@ -1,0 +1,18 @@
+Num1 = int(input("Enter the first Number:"))
+Num2 = int(input("Enter the second Number:"))
+
+def add(Num1,Num2):
+    print("Addition :",(Num1 + Num2))
+
+def sub(Num1,Num2):
+    print("subtraction :",(Num1 - Num2))
+
+def multi(Num1,Num2):
+    print("Mulitiplication :",(Num1 * Num2))
+
+def divi(Num1, Num2):
+    print("Division:",(Num1/Num2))
+add(Num1,Num2)
+sub(Num1,Num2)
+multi(Num1,Num2)
+divi(Num1,Num2)
